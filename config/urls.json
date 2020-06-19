@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "golang",
+      "url": "http://golang.org"
+    },
+    {
+      "name": "Go Spec",
+      "url": "https://golang.org/ref/spec"
+    },
+    {
+      "name": "Effective Go",
+      "url": "https://golang.org/doc/effective_go.html"
+    }
+  ]
+}
